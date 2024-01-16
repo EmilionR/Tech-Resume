@@ -162,11 +162,11 @@ img {
 
 #gh-username {
   display: block;
-  padding: 5px 8px;
-  font-size: 1.4em;
+  padding: 2px 8px;
+  font-size: 0.75em;
   color: #666;
   max-width: 550px;
-  margin-bottom: 15px;
+  margin: 0 auto 8px;
 }
 
 #gh-submit {
@@ -208,4 +208,9 @@ img {
   -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.25);
   -moz-box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.25);
   box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.25);
+}
+
+#mini-heading {
+  font-size: 1em;
+  margin: 0 auto 1px;
 }
